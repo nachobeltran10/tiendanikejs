@@ -1,0 +1,17 @@
+@use 'variables';
+
+
+footer{
+    
+    height: 90px;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+
+    @media (min-width: 1115px){
+        justify-content: center;
+    }
+    
+    
+}
+

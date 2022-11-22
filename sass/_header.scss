@@ -1,0 +1,85 @@
+@use 'variables';
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0 25px;
+    @media (min-width:1115px){
+        height: 112px;
+        border-bottom: 1px solid  variables.$grisoscuro;
+
+    }
+    &__navigation{
+        width: 175px;
+        height: 100%;
+        
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        @media (min-width:1115px){
+            width: 590px;
+        }
+    }
+    &__menu{
+        &:hover{
+            cursor: pointer;
+        }
+        @media (min-width:1115px){
+            display: none;
+        } 
+    }
+    &__cart-avatar{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 70px;
+        @media (min-width:1115px){
+            width: 125px;
+        }
+    }
+    &__cart{
+        position: relative;
+        &--notification{
+            display: none;
+            background-color: variables.$black;
+            width: 15px;
+            height: 12px;
+            border-radius: 16px;
+            position: absolute;
+            top: 25px;
+            right: 11px;
+            font-size: 0.8em;
+            text-align: center;
+            color: white;
+            
+            
+        }
+        &:hover{
+            cursor: pointer;
+        }
+    
+    }
+    &__avatar{
+        width: 36px;
+        display: none;
+        @media (min-width:1115px){
+            width: 42px;
+        }
+        &:hover{
+            cursor: pointer;
+            border: 2px solid variables.$black;
+            border-radius: 50%;
+        }
+    }
+    &__login{
+        width: 36px;
+        @media (min-width:1115px){
+            width: 42px;
+        }
+        &:hover{
+            cursor: pointer;
+        }
+    }
+}

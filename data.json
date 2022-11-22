@@ -1,0 +1,227 @@
+[
+    {
+        "nombre": "Air jordan 1",
+        "id": 1,
+        "genero": "hombre",
+        "color": "1 color",
+        "precio": 170,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/44c21f0a-4290-40aa-be0e-546148ae7979/air-jordan-1-hi-flyease-shoes-9mn2QK.png",
+        "imagen1": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/eeb63b14-f4fb-43e4-add0-848529f8a00d/air-jordan-1-hi-flyease-shoes-9mn2QK.png",
+        "imagen2": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5d4955af-ce4e-44a3-8b4c-c0302483edea/air-jordan-1-hi-flyease-shoes-9mn2QK.png",
+        "imagen3": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/be7b9f53-d352-45a1-9d9e-9ae5af9946f8/air-jordan-1-hi-flyease-shoes-9mn2QK.png",
+        "imagen4": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1648c312-8002-48ed-9fe6-ec597c758a1f/air-jordan-1-hi-flyease-shoes-9mn2QK.png",
+        "descripcion": "El Air Jordan 1 Hi FlyEase combina el codiciado estilo de la primera zapatilla exclusiva de Michael Jordan con un sistema de entrada rápido y fácil con una sola mano. No hay cordones para atar, solo una cremallera envolvente y dos correas para asegurar un ajuste personalizado."
+    },
+    {
+        "nombre": "Nike Air force",
+        "id": 2,
+        "genero": "hombre",
+        "color": "2 colores",
+        "color1":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/21d38052-598b-44f6-a857-123c9f72b015/air-force-1-07-shoes-rWtqPn.png",
+        "precio": 145,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-shoes-rWtqPn.png"
+    },
+    {
+        "nombre": "Air Jordan 1 low",
+        "id": 3,
+        "genero": "hombre",
+        "color": "1 color",
+        "precio": 170,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c448b55f-60fd-46e9-a818-0d9bc392e8b1/air-jordan-1-low-flyease-easy-on-off-shoes-28LT69.png"
+    },
+    {
+        "nombre": "Nike Air Max 270",
+        "id": 4,
+        "genero": "Mujer",
+        "color": "1 color",
+        "precio": 114,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d56078a8-6b2f-4c46-babd-9a8a2b215595/air-max-270-shoe-dgLD5h.png"
+    },
+    {
+        "nombre": "Nike blazer low Platform",
+        "id": 5,
+        "genero": "Mujer",
+        "color": "3 colores",
+        "precio": 135,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0e124735-c5ee-488a-b1f9-c123c02a3037/blazer-low-platform-shoes-g3cRP7.png"
+    },
+    {
+        "nombre": "Nike Air Max Dawn",
+        "id": 6,
+        "genero": "Mujer",
+        "color": "1 color",
+        "precio": 150,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1179fcfd-66fb-47fd-abd6-f2291c7599b9/air-max-dawn-shoes-CLTL55.png"
+    },
+    {
+        "nombre": "Nike Air Force 1 Mid",
+        "id": 7,
+        "genero": "hombre",
+        "color": "1 color",
+        "precio": 190,
+        "imagen":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e34a495d-3960-4401-81f3-fe8f3f3ed9a6/air-force-1-mid-07-shoes-MBN2N6.png"
+    },
+    {
+        "nombre": "Nike Air Force 1 Lv8",
+        "id": 8,
+        "genero": "hombbre",
+        "color": "2 colores",
+        "precio": 170,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7c66c860-4f82-4a52-870e-3a1084621664/air-force-1-07-lv8-shoes-2jnjV4.png"
+    },
+    {
+        "nombre": "Nike Court Vision Low",
+        "id": 9,
+        "genero": "hombre",
+        "color": "1 color",
+        "precio": 100,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/818bb456-4fb5-49c9-bc6c-51d7f4d0f371/court-vision-low-shoes-TGRtWS.png"
+    },
+    {
+        "nombre": "Nike Lunar Force 1",
+        "id": 10,
+        "genero": "Hombre",
+        "color": "1 color",
+        "precio": 235,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0ca943b5-2488-4aa4-b980-cd4179ae2d3f/lunar-force-1-duckboot-g3JNZ2.png"
+    },
+    {
+        "nombre": "Jordan Jumpman Pro",
+        "id": 11,
+        "genero": "Mujer",
+        "color": "2 colores",
+        "precio": 185,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f6ed1490-9e36-4994-b32d-098653245611/jordan-jumpman-pro-shoes-xf10xd.png"
+    },
+    {
+        "nombre": "KD15",
+        "id": 12,
+        "genero": "Hombre",
+        "color": "1 color",
+        "precio": 190,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9eae67c4-7259-40ca-8bb9-159c1e423c7f/kd15-basketball-shoes-g7rF8h.png"
+    },
+    {
+        "nombre": "Air Jordan 1 Mid",
+        "id": 13,
+        "genero": "Hombre",
+        "color": "1 color",
+        "precio": 165,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2d5a9da4-00ab-40dc-a428-7fa5df88b031/air-jordan-1-mid-shoes-WpqHJn.png"
+    },
+    {
+        "nombre": "Jordan Play",
+        "id": 14,
+        "genero": "Hombre",
+        "color": "5 colores",
+        "precio": 55,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aa782209-3897-4110-a9e6-631cf4528b42/jordan-play-slides-5VQp8k.png"
+    },
+    {
+        "nombre": "Air Jordan 1 Mid",
+        "id": 15,
+        "genero": "Mujer",
+        "color": "1 color",
+        "precio": 160,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bd6ac44b-b675-44a4-a2b6-8db53c30c140/air-jordan-1-mid-shoes-xMNLGv.png"
+    },
+    {
+        "nombre": "Air Jordan 11 CMFT",
+        "id": 16,
+        "genero": "Mujer",
+        "color": "4 colores",
+        "precio": 170,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/455c023f-c6dd-41ba-8c5e-ff93c3249c75/air-jordan-11-cmft-low-shoes-BQn4zL.png"
+    },
+    {
+        "nombre": "Nike SB Nyjah Free 2",
+        "id": 17,
+        "genero": "Mujer",
+        "color": "1 color",
+        "precio": 74.99,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4688228a-b95b-4e49-9127-54723a205f1e/sb-nyjah-free-2-skate-shoe-Xd3NXX.png"
+    },
+    {
+        "nombre": "Jordan Air 200E",
+        "id": 18,
+        "genero": "Mujer",
+        "color": "1 color",
+        "precio": 82.99,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c340e956-7889-47cd-bb42-d5d51a8771e9/jordan-air-200e-shoes-kSbN3x.png"
+    },
+    {
+        "nombre": "Nike Air Deldon",
+        "id": 19,
+        "genero": "Mujer",
+        "color": "1 color",
+        "precio": 150,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dbb784c8-065f-467e-8f33-eb3a8defb603/air-deldon-lyme-easy-on-off-basketball-shoes-0rD12G.png"
+    },
+    {
+        "nombre": "Nike Air Force 1 High Utility",
+        "id": 20,
+        "genero": "Mujer",
+        "color": "1 color",
+        "precio": 160,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1b1a0d57-d7aa-4487-bcc4-b9244fbb0c61/air-force-1-high-utility-2-boot-Nf7bJp.png"
+    },
+    {
+        "nombre": "Nike Dunk High",
+        "id": 21,
+        "genero": "Niño/a",
+        "color": "1 color",
+        "precio": 125,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7ccecfb3-25e2-4bc0-b9c5-3875b2b94c3a/dunk-high-older-shoes-JfWkHc.png"
+    },
+    {
+        "nombre": "Air Jordan 1 Mid SE",
+        "id": 22,
+        "genero": "Niño/a",
+        "color": "1 color",
+        "precio": 140,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bc14d949-7e78-44f5-9362-87d4b6410ca3/air-jordan-1-mid-se-older-shoes-Twlw71.png"
+    },
+    {
+        "nombre": "Nike Dunk Low",
+        "id": 23,
+        "genero": "Niño/a",
+        "color": "1 color",
+        "precio": 105,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d013e0fd-0ba9-49c1-ab19-8184131523ea/dunk-low-older-shoes-fqntRV.png"
+    },
+    {
+        "nombre": "Nike Air Force 1 LV8",
+        "id": 24,
+        "genero": "Niño/a",
+        "color": "2 colores",
+        "precio": 110,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/eae3b0fa-2174-4151-9e2e-db630872af23/air-force-1-lv8-older-shoes-Hjg4Zp.png"
+    },
+    {
+        "nombre": "Luka 1",
+        "id": 25,
+        "genero": "Niño/a",
+        "color": "1 color",
+        "precio": 90,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/90c5fefa-7128-4c81-b172-ca3e2f660ecd/luka-1-older-basketball-shoes-DkXJnz.png"
+    },
+    {
+        "nombre": "Nike Dunk Low SE",
+        "id": 26,
+        "genero": "Niño/a",
+        "color": "1 color",
+        "precio": 120,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1db55c43-6da2-482c-a22b-004ae0014d46/dunk-low-se-older-shoes-3Jsw2K.png"
+    },
+    {
+        "nombre": "Air Jordan 1 Low",
+        "id": 27,
+        "genero": "Niño/a",
+        "color": "3 colores",
+        "precio": 150,
+        "imagen": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/079d3c89-4285-4a6f-97eb-8d76d03f7450/air-jordan-1-low-older-shoes-8TcSsR.png"
+    }
+
+]
+
+

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <main class="main-container">
+        <header class="header">
+            <div class="header__navigation">
+                <img class="header__menu" src="./img/menu.png" alt="menu-icon" />
+                <img class="nike-icon" src="./img/nike-icon.svg" alt="nike-icon" />
+
+                <nav class="navbar">
+                    <ul class="navbar__items">
+                        <li><a class="navbar__link" href="#"></a>Hombre</li>
+                        <li><a class="navbar__link" href="#"></a>Mujer</li>
+                        <li><a class="navbar__link" href="#"></a>Sale</li>
+                        <li><a class="navbar__link" href="#"></a>Colección</li>
+                    </ul>
+                </nav>
+            </div>
+
+
+
+            <!-- INICIO MODAL NAVBAR -->
+            <div class="modal-navbar__background">
+                <nav class="modal-navbar">
+                    <img class="modal-navbar__close-icon" src="./img/icon-close.svg" alt="" />
+                    <ul class="modal-navbar__items">
+                        <li><a class="modal-navbar__link" href="#"></a>Hombre</li>
+                        <li><a class="modal-navbar__link" href="#"></a>Mujer</li>
+                        <li><a class="modal-navbar__link" href="#"></a>Sale</li>
+                        <li><a class="modal-navbar__link" href="#"></a>Colección</li>
+                    </ul>
+                </nav>
+            </div>
+
+            <!-- FINAL MODAL NAVBAR -->
+            <div class="header__cart-avatar">
+                <div class="header__cart">
+                    <div class="header__cart--notification">0</div>
+                    <img class="bag-icon" src="./img/bag-icon.png" alt="">
+                </div>
+                <img class="header__avatar" src="./img/image-avatar.png" alt="">
+                <img class="header__login" src="./img/enter.png" alt="">
+            </div>
+        </header>
+
+        <section class="content">
+            <article class="gallery">
+                <div class="gallery__image-container">
+                    <img class="gallery__previus" src="./img/icon-previous.svg" alt="">
+                    <img class="gallery__next" src="./img/icon-next.svg" alt="">
+                </div>
+                <div class="gallery__thumnails">
+                    <img id="1" class="gallery__thumnail" src="./img/Air jordan 1 - thumnail1.png" alt="">
+                    <img id="2" class="gallery__thumnail" src="./img/Air jordan 1 - thumnail2.png" alt="">
+                    <img id="3" class="gallery__thumnail" src="./img/Air jordan 1 - thumnail3.png" alt="">
+                    <img id="4" class="gallery__thumnail" src="./img/Air jordan 1 - thumnail4.png" alt="">
+                </div>
+            </article>
+
+            <article class="details">
+                <h2 class="details__title1">Bestseller</h2>
+                <h2 class="details__title2">Air Jordan 1 Hi FlyEase</h2>
+                <p class="details__description">El Air Jordan 1 Hi FlyEase combina el codiciado estilo de la primera
+                    zapatilla exclusiva de Michael Jordan con un sistema de entrada rápido y fácil con una sola mano. No
+                    hay cordones para atar, solo una cremallera envolvente y dos correas para asegurar un ajuste
+                    personalizado.</p>
+                <p class="details__price">$57.000</p>
+
+
+                <button class="input__button">Bag</button>
+                </div>
+
+
+            </article>
+
+        </section>
+
+        <!-- inicio carrito modal -->
+        <div class="cart-modal">
+            <p class="cart-modal__title">Shop Bag</p>
+            <div class="cart-modal__checkout-container">
+                <div class="cart-modal__details-container">
+                    <img class="cart-modal__image" src="./img/Air jordan 1 - thumnail1.png" alt="">
+                    <div>
+                        <p class="cart-modal__product">Air Jordan 1 Hi FlyEase</p>
+                        <p class="cart-modal__price">$57.000 x3 <span>$171.000</span></p>
+
+                    </div>
+                    <img class="cart-modal__delete" src="./img/icon-delete.svg" alt="">
+                </div>
+                <button class="cart-modal__Checkout">Checkout</button>
+            </div>
+        </div>
+        <!-- final carrito modal -->
+
+        <footer>
+            <p>© 2022 Nike, Inc. Todos los derechos reservados</p>
+        </footer>
+    </main>
+    <script src="./main.js"></script>
+    
+
+
+</body>
+
+</html>

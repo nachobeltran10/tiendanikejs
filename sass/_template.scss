@@ -1,0 +1,82 @@
+@use 'variables';
+@use 'mixins';
+
+/* CARDS FETCH */
+
+
+.card-container__description img {
+    width: 50px;
+    height: 50px;
+}
+
+.card-container__description {
+    display: flex;
+    gap: 5px;
+    height: 40px;
+}
+
+.card-container__img-product img {
+    width: 372px;
+    height: 372px;
+}
+
+
+
+
+.card-container {
+
+    width: 375px;
+    height: 560px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#zapatillas {
+    display: grid;
+    grid-template-columns: repeat(3, 350px);
+    grid-template-rows: 1fr;
+    justify-content: center;
+    margin-top: 40px;
+    padding: 10px;
+
+    column-gap: 8%;
+
+    @media (max-width:1300px){
+        gap: 3%;
+        
+    }
+    @media (max-width:1200px){
+        grid-template-columns: repeat(2, 350px);
+        gap: 3%;
+        
+    }
+    @media(max-width:1115px){
+        grid-template-columns: repeat(1, 350px);
+        gap: 0;
+        column-gap: 0%;
+    }
+}
+
+.card-container .cart-modal__Checkout {
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+
+}
+
+.card__button{
+    background-color: variables.$black;
+    width: 20%;
+    color: variables.$white;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: none;
+    font-size: 0.9em;
+    font-weight: 700;
+    &:hover{
+        cursor: pointer;
+        opacity: 0.8;
+    }
+}

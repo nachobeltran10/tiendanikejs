@@ -1,0 +1,43 @@
+@use 'variables';
+@use 'mixins';
+
+.gallery{
+    &__image-container{
+        height: 350px;
+        width: 100%;
+        background-image: url(../img/Air\ jordan-1.png);
+        background-position-y:-50px ;
+        background-size: cover;
+    }
+    &__previus{
+        @include mixins.gallery(150px, 15px);
+    }
+    &__next{
+        @include mixins.gallery(150px, 320px);
+
+    }
+    &__thumnails{
+        display: none;
+        @media (min-width:1115px){
+            display: flex;
+            justify-content: space-between;
+
+        }
+    }
+    &__thumnail{
+        width: 100px;
+        border-radius: 16px;
+        &:hover{
+            cursor: pointer;
+            border: 1px solid variables.$black;
+        }
+    }
+    @media (min-width:1115px){
+        width: 446px;
+        &__image-container{
+            border-radius: 16px;
+            height: 446px;
+            margin-bottom: 32px;
+        }
+    }
+}

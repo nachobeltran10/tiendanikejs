@@ -1,0 +1,27 @@
+@use 'variables';
+
+.navbar{
+    display: none;
+    width: 400px;
+    &__items{
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    &__link{
+        text-decoration: none;
+        display: block;
+        height: 10px;
+        
+        
+        
+    }
+    @media (min-width:1115px){
+        display: block;
+        font-weight: 700;
+        font-size: 1.2em;
+        cursor: pointer;
+        
+    }
+}
